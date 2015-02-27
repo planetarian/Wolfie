@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\grid1.bmp</Source>
+      <Name>Sprites\grid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\grid1.xnb</Output>
+      <Time>2009-08-30T16:33:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\grid2.bmp</Source>
+      <Name>Sprites\grid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\grid2.xnb</Output>
+      <Time>2009-08-28T22:33:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\spacer.bmp</Source>
+      <Name>Sprites\spacer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\spacer.xnb</Output>
+      <Time>2009-08-29T00:23:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\target.bmp</Source>
+      <Name>Sprites\target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\target.xnb</Output>
+      <Time>2009-08-28T21:40:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\utorrent.bmp</Source>
+      <Name>Sprites\utorrent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\utorrent.xnb</Output>
+      <Time>2009-08-31T11:49:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\utorrent32.bmp</Source>
+      <Name>Sprites\utorrent32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\utorrent32.xnb</Output>
+      <Time>2009-08-28T22:31:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\utorrent_icon.png</Source>
+      <Name>Sprites\utorrent_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Sprites\utorrent_icon.xnb</Output>
+      <Time>2009-08-31T12:00:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Segoe UI.spritefont</Source>
+      <Name>Fonts\Segoe UI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\Fonts\Segoe UI.xnb</Output>
+      <Time>2013-04-23T12:42:20-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B95CB605-713E-4C9A-8B52-8C10DB7FD7D1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Reverie\SkyDrive\Projects\Wolfie2013\WolfieContent\WolfieContent\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2013-02-25T11:21:34-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-09T00:25:57.9768692-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
